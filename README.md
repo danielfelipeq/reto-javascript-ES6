@@ -1,1 +1,1 @@
-# reto-javascript-ES6
+# Reto con JavaScript con ES6
